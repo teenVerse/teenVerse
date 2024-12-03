@@ -1,35 +1,20 @@
 Welcome to a community of high school hackers from Pakistan. We’re artists, writers, engineers, tinkerers, campers, filmmakers, volunteers. We **make** things. We **help** one another. We have **fun**. **[Join us ➚](https://pk.hackclub.com)**
 
-##TeenVerse is a part of <a href="https://hackclub.com">**HackClub**</a>
-This repository is where we store our [Workshops](https://workshops.hackclub.com), which are self-led learn-to-code tutorials, as well as our [Code of Conduct](https://hackclub.com/conduct/).
+TeenVerse is a part of <a href="https://hackclub.com">**HackClub**</a>
+
 
 ### 🌈 Get Involved
 
 We'd love to have you involved in the community:
 
-- [Start a Hack Club](https://hackclub.com) at your high school.
+- Join Our [Slack](https://hackclub.com/slack).
 
-- Join the [Hack Club Slack](https://hackclub.com/slack) & get chatting with thousands of other young makers.
+- Join [HackClub](https://hackclub.com/) & be a part of teenage hackers from all over the world.
 
 - Attend _(or start!)_ a [high school hackathon](https://hackclub.com/hackathons) in your area.
 
-- Make your project a 501(c)(3) nonprofit with [🏦 HCB](https://hackclub.com/hcb).
-
 - Ship a new project with one of [our workshops](https://workshops.hackclub.com).
 
-### [🦦](https://shakingmy.horse/) Contributing on GitHub
-
-Here on GitHub, there are many ways to contribute:
-
-- [Write a Hack Club workshop](https://workshops.hackclub.com/submit-a-workshop/) for clubs & hackers to build from.
-
-- [Draw a 🦕 dino](https://hack.af/draw-dino) & submit a PR to [`hackclub/dinosaurs`](https://github.com/hackclub/dinosaurs).
-
-- Create a game in [🍃 Sprig](https://sprig.hackclub.com) (we'll ship you a [console](https://github.com/hackclub/sprig/tree/main/hardware)!).
-
-- Multilingual? Help us [translate our site](https://github.com/hackclub/global/issues/15)!
-
-Check out [`contribute.hackclub.com`](https://contribute.hackclub.com) for more active repositories & a guide to contributing. 
 
 ## ✨ Our Philosophy
 
