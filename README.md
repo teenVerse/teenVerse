@@ -1,3 +1,6 @@
+
+<img src="https://cloud-81ucu9zoo-hack-club-bot.vercel.app/0teenversecover.png">
+
 Welcome to a community of high school hackers from Pakistan. We’re artists, writers, engineers, tinkerers, campers, filmmakers, volunteers. We **make** things. We **help** one another. We have **fun**. **[Join us ➚](https://pk.hackclub.com)**
 
 TeenVerse is a part of <a href="https://hackclub.com">**HackClub**</a>
